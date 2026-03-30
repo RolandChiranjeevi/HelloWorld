@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello Sweden");
         System.out.println("How is it hanging?");
         System.out.println("Goodbye Norway");
+        //What is this?
     }
 }
